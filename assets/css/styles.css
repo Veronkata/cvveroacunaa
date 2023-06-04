@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    font-family: 'Figtree', sans-serif;
+    color: #4d4d4d;
+}
+#nombre{
+    background-color: rgb(241, 196, 203); 
+      
+}
+img{
+    justify-content: center; padding: 2em;
+    
+
+}
+h1{
+    margin: 0%;
+    font-size: 3em;
+    padding: 1em;
+}
+h3{
+    padding: 10px;
+    font-size: 40px;
+}
+
+.parrafoPresentacion{ 
+    font-size: 1em;
+    padding-left: 37em;
+    text-justify: auto;
+    
+} 
+
+.misestudios{
+    background-color: #b1b1b1; padding: 0%; margin-top: 20px;
+    
+}
+ol{
+    list-style: none;
+    margin-left: 30px;
+    margin: 30px;
+}
+.experiencia{
+    background-color: #b1b1b1; padding: 0%; margin-top: 20px;
+}
+
+p{
+    margin: 30px;
+    margin-left: 60px;
+    
+}
+
+footer{
+
+    padding-top: 5em;
+    align-content: center;
+    background-color: rgb(241, 196, 203);
+    margin: 0; padding: 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 10px;
+}
